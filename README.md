@@ -33,12 +33,12 @@
 
 ## Go
 
-  * [Gocco](https://github.com/nikhilm/gocco)
+  * [Gocco - Go Port of Docco](https://github.com/nikhilm/gocco)
 
 ## Ruby
 
   * [Slate - Beautiful static documentation for your API](https://github.com/lord/slate)
-  * [Rocco](https://github.com/rtomayko/rocco)
+  * [Rocco - Ruby Port of Docco](https://github.com/rtomayko/rocco)
 
 ## Elixir
 
