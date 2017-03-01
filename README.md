@@ -16,6 +16,7 @@
   - [Go](#go)
   - [Ruby](#ruby)
   - [Elixir](#elixir)
+  - [Python](#python)
 
 
 ## Platforms
@@ -23,6 +24,9 @@
   * [Swagger.io](http://swagger.io/)
   * [Readme.io](https://readme.io/)
   * [Stoplight.io](http://stoplight.io/platform/docs/)
+  * [readthedocs.org](https://readthedocs.org/)
+  * [Mkdocs.org](http://www.mkdocs.org/)
+  * [couscous.io](http://couscous.io/)
 
 ## Tools
 
@@ -52,4 +56,10 @@
 ## C++
 
   * [Doxygen](http://www.stack.nl/~dimitri/doxygen)
+  
+## Python
+  * [Pydoc](http://pydoc.org/)
+  * [Pydoctor](https://launchpad.net/pydoctor)
+  * [Doxygen - can create documentation in various formats (HTML, LaTeX, PDF, ...)](http://www.doxygen.org/)
+
  
