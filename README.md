@@ -60,6 +60,4 @@
 ## Python
   * [Pydoc](http://pydoc.org/)
   * [Pydoctor](https://launchpad.net/pydoctor)
-  * [Doxygen - can create documentation in various formats (HTML, LaTeX, PDF, ...)](http://www.doxygen.org/)
-
- 
+  * [Sphinx](http://www.sphinx-doc.org)
