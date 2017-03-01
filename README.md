@@ -24,9 +24,9 @@
   * [Swagger.io](http://swagger.io/)
   * [Readme.io](https://readme.io/)
   * [Stoplight.io](http://stoplight.io/platform/docs/)
-  * [readthedocs.org](https://readthedocs.org/)
+  * [Readthedocs.org](https://readthedocs.org/)
   * [Mkdocs.org](http://www.mkdocs.org/)
-  * [couscous.io](http://couscous.io/)
+  * [Couscous.io](http://couscous.io/)
 
 ## Tools
 
