@@ -35,6 +35,8 @@
   * [Whiteboard - NodeJS Port of Slate](https://github.com/mpociot/whiteboard)
   * [Docco - Quicky & Dirty Documentation Generator](http://jashkenas.github.io/docco)
   * [Documentationjs](https://github.com/documentationjs/documentation)
+  * [Docusaurus](https://docusaurus.io/)
+
 
 ## Go
 
