@@ -30,6 +30,7 @@
   * [api blueprint](https://apiblueprint.org)
 
 ## Tools
+  * [Yamlinc](https://github.com/javanile/yamlinc)
 
 ## JavaScript
   * [Whiteboard - NodeJS Port of Slate](https://github.com/mpociot/whiteboard)
