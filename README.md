@@ -37,6 +37,7 @@
   * [Docco - Quicky & Dirty Documentation Generator](http://jashkenas.github.io/docco)
   * [Documentationjs](https://github.com/documentationjs/documentation)
   * [Docusaurus](https://docusaurus.io/)
+  * [Docz](https://www.docz.site/)
 
 
 ## Go
