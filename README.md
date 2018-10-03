@@ -17,7 +17,7 @@
   - [Ruby](#ruby)
   - [Elixir](#elixir)
   - [PHP](#php)
-  - [C++](#c++)
+  - [C++](#c)
   - [Python](#python)
 
 
