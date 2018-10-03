@@ -16,6 +16,8 @@
   - [Go](#go)
   - [Ruby](#ruby)
   - [Elixir](#elixir)
+  - [PHP](#php)
+  - [C++](#c)
   - [Python](#python)
 
 
