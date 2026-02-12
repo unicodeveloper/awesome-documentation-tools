@@ -31,6 +31,7 @@
 
 ## Tools
   * [Yamlinc](https://github.com/javanile/yamlinc)
+  * [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs)
 
 ## JavaScript
   * [Whiteboard - NodeJS Port of Slate](https://github.com/mpociot/whiteboard)
