@@ -64,5 +64,5 @@
   
 ## Python
   * [Pydoc](http://pydoc.org/)
-  * [Pydoctor](https://launchpad.net/pydoctor)
+  * [Pydoctor](https://github.com/twisted/pydoctor)
   * [Sphinx](http://www.sphinx-doc.org)
