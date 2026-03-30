@@ -21,6 +21,7 @@
 
 ## Platforms
 
+  * [DocuPilot](https://docupilot-alpha.vercel.app) - GitHub App that auto-generates README, CHANGELOG, and API docs on every push. AI-powered, free for 1 repo, $9/mo for more.
   * [Swagger.io](http://swagger.io/)
   * [Readme.io](https://readme.io/)
   * [Stoplight.io](http://stoplight.io/platform/docs/)
