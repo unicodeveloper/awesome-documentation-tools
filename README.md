@@ -31,6 +31,7 @@
   * [Xquik](https://docs.xquik.com)
 
 ## Tools
+  * [Code Tour](https://github.com/vaddisrinivas/code-tour) - AI-generated CodeTour walkthroughs for any codebase. Creates persona-targeted .tour files with step-by-step explanations linked to real files and line numbers.
   * [Yamlinc](https://github.com/javanile/yamlinc)
 
 ## JavaScript
