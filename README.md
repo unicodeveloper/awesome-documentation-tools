@@ -29,6 +29,7 @@
   * [Couscous.io](http://couscous.io/)
   * [api blueprint](https://apiblueprint.org)
   * [Xquik](https://docs.xquik.com)
+  * [Jamdesk](https://jamdesk.com/)
 
 ## Tools
   * [Yamlinc](https://github.com/javanile/yamlinc)
