@@ -31,6 +31,7 @@
   * [Xquik](https://docs.xquik.com)
 
 ## Tools
+  * [Docsmith](https://docsmithai.com) - AI-powered documentation generator. Input: GitHub repo URL. Output: complete docs site with navigation, search, and markdown source files.
   * [Yamlinc](https://github.com/javanile/yamlinc)
 
 ## JavaScript
