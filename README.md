@@ -29,6 +29,7 @@
   * [Couscous.io](http://couscous.io/)
   * [api blueprint](https://apiblueprint.org)
   * [Xquik](https://docs.xquik.com)
+  * [Mermaid Online](https://mermaidonline.org/?utm_source=github&utm_medium=referral&utm_campaign=mo_backlink&utm_content=unicodeveloper_docs) - Browser-based Mermaid editor and converter for turning text diagrams into SVG/PNG for docs, READMEs, blogs, and slides.
 
 ## Tools
   * [Yamlinc](https://github.com/javanile/yamlinc)
