@@ -38,6 +38,7 @@
   * [Docco - Quicky & Dirty Documentation Generator](http://jashkenas.github.io/docco)
   * [Documentationjs](https://github.com/documentationjs/documentation)
   * [Docusaurus](https://docusaurus.io/)
+  * [Wiki Pilot - Generates a documentation wiki from a codebase, with staleness detection when source files change](https://wikipilot.dev/)
 
 
 ## Go
