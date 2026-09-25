@@ -16,7 +16,10 @@
   - [Go](#go)
   - [Ruby](#ruby)
   - [Elixir](#elixir)
+  - [PHP](#php)
+  - [C++](#c++)
   - [Python](#python)
+  - [GAMS](#gams)
 
 
 ## Platforms
@@ -66,3 +69,6 @@
   * [Pydoc](http://pydoc.org/)
   * [Pydoctor](https://launchpad.net/pydoctor)
   * [Sphinx](http://www.sphinx-doc.org)
+
+## GAMS
+  * [goxygen](https://github.com/pik-piam/goxygen)
